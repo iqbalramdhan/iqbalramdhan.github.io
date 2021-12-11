@@ -1,3 +1,16 @@
+.navbar {
+    font-family: arial;
+    background: black;
+    text-align: center;
+    padding: 5px;
+}
+.navbar a {
+    color: white;
+    margin: auto;
+}
+.navbar a:hover {
+    font-weight: bold;
+}
 h1 {
     background: black;
     text-align: center;

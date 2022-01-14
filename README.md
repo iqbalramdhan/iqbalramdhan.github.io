@@ -1,6 +1,5 @@
-# Sebagai uji coba mohon feedbacknya
-
-## Saya menggunakan tools sebagai berikut
+# Sebagai uji coba mohon feedbacknya 
+# Saya menggunakan tools sebagai berikut
 
 - HTML
 - CSS
